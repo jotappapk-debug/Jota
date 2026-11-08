@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.29",
+  "versionCode": 31,
+  "versionName": "1.30",
   "bytes": 73904587,
-  "sha256": "1ba5a53927eb35da56802c49e392acc7d9ebbe40d1732dcfb85ab37b8ba11654",
-  "notes": "No player de música, Anterior reinicia a faixa. Dois toques seguidos voltam para a faixa anterior."
+  "sha256": "ac66a416b237e06e757f5f43148f6bcd2aa55ae25d47d7d722b347cd81493605",
+  "notes": "O botão Anterior reinicia a música no cartão Reproduzindo agora. Inclui declaração de ciência na primeira abertura."
 }
 
