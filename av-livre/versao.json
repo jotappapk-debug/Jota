@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
+  "versionCode": 30,
+  "versionName": "1.29",
   "bytes": 73904587,
-  "sha256": "9f15c99199ab90e21f0d57e9a408f2aa35a37f4b5f49be4aac88f1e9fcf2faf4",
-  "notes": "Confirmação de saída centralizada com Sair e Cancelar. Pressionar Voltar novamente fecha o app."
+  "sha256": "1ba5a53927eb35da56802c49e392acc7d9ebbe40d1732dcfb85ab37b8ba11654",
+  "notes": "No player de música, Anterior reinicia a faixa. Dois toques seguidos voltam para a faixa anterior."
 }
 
