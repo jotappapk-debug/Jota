@@ -1,0 +1,7 @@
+{
+  "versionCode": 24,
+  "versionName": "1.23",
+  "bytes": 73908882,
+  "sha256": "79c433eed55020893b7a51dcf47b7e36b1619f1b137baf9bfcc20f1cde9437f6",
+  "notes": "Novo botão Limpar link, disponível quando o campo do link tem texto."
+}
