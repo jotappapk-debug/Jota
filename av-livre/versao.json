@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "1.27",
+  "versionCode": 29,
+  "versionName": "1.28",
   "bytes": 73904587,
-  "sha256": "f93e26811f510caba607859e14c8aab8030da05f975c6a69314cd2c7bea9d13e",
-  "notes": "O botão Abrir download agora abre o link direto do APK."
+  "sha256": "9f15c99199ab90e21f0d57e9a408f2aa35a37f4b5f49be4aac88f1e9fcf2faf4",
+  "notes": "Confirmação de saída centralizada com Sair e Cancelar. Pressionar Voltar novamente fecha o app."
 }
 
