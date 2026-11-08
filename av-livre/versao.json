@@ -1,7 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.24",
-  "bytes": 73908882,
-  "sha256": "ce4e791bbf81ce84de1942f4c9c65afffe410129e31906340babfc4fae193801",
-  "notes": "Novo seletor de Cor de destaque com amostras e prévia."
+  "versionCode": 26,
+  "versionName": "1.25",
+  "bytes": 73904587,
+  "sha256": "f5021dd612f4270910465424f6a20582f71b6c8373f550ca5cbd62fda3eaaaa1",
+  "notes": "As atualizações abrem no navegador. Esta versão migra para a nova assinatura do AV livre."
 }
+
