@@ -1,8 +1,9 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
+  "versionCode": 27,
+  "versionName": "1.26",
   "bytes": 73904587,
-  "sha256": "f5021dd612f4270910465424f6a20582f71b6c8373f550ca5cbd62fda3eaaaa1",
-  "notes": "As atualizações abrem no navegador. Esta versão migra para a nova assinatura do AV livre."
+  "sha256": "3238178935590720c609f3788c772e569792dd850b52844dfef7905e356a306e",
+  "notes": "Confirmação de saída ao pressionar Voltar na tela inicial."
 }
+
 
